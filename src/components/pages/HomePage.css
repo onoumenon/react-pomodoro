@@ -1,0 +1,9 @@
+body {
+  position: relative;
+  right: 25px;
+}
+
+.timer {
+  position: relative;
+  left: 48px;
+}
